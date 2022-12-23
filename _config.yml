@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Have Hill
+description: Sookmyung w.univ Statistics & Artificial Intelligence
 url: https://havehill.github.io/blog/
-avatar: /avatar.jpeg
+avatar: /profile.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /cover.jpeg
 
 # Gems
 plugins:
