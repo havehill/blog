@@ -15,7 +15,7 @@ last_modified_at : 2023-02-11
 ---
 
 ## Numpy 인덱싱 새로 안 기능 : 리스트 인덱싱
-</br>
+<br>
 
 cs231n Assignment #1 softmax 문제 중에 for loop을 vectorized 시켜야 했다.
 
@@ -47,7 +47,7 @@ correct = soft_fun[np.arange(N_x), y] # ⭐️⭐️⭐️
 이렇게 하면 같은 결과를 낸다!!
 이게 무슨 원리인고 하니
 
-![ex_screenshot](./image/0211_image/0211_1.png)
+<img width="493" alt="0211_1" src="https://user-images.githubusercontent.com/105470134/218250515-2e22acd4-a305-4290-b3fd-14c1efa9eca9.png">
 
 요로코롬  
 
